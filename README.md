@@ -4,7 +4,6 @@
 ------------
 The Program should accept a source file called *code.Ceng* and produce a text file named as *code.lex* that contains all the tokens of the *code.lex*  listed one after the other.
 
-------------
 Lexical rules for the programming language *Ceng++* are as follows:
 
 **1- Identifiers**
